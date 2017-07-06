@@ -1,0 +1,15 @@
+h1, h2, h3, h4, p {letter-spacing: 1px;}
+p {line-height: 22px;}
+hr {margin-top: 120px;}
+#landing {background: url('http://wallpoper.com/images/00/34/85/28/black-cube_00348528.jpg'); background-attachment: fixed; background-size: cover;}
+#landing h1, #landing h3 {text-transform: uppercase; color: #fff;}
+#landing h1 {margin-bottom: 45px; margin-top: 0px}
+#landing h3 {font-size: 14px; margin-bottom: 30px; margin-top: 0px;}
+.content-row {margin-top: 120px;}
+.content-row h1 {margin-top: 0px; margin-bottom: 90px; text-align: center;}
+.content-row p {text-align: justify; line-height: 28px;}
+.content-row h4 {margin-top: 60px; margin-bottom: 30px;}
+#footer {margin-top: 120px; margin-bottom: 30px;}
+.btn-dan-1, .btn-dan-2 {border: 2px solid #333; border-radius: 1px; background: none; font-size: 16px;}
+.btn-dan-1, .btn-dan-1:hover {padding: 10px 15px; color: #fff; border-color: #fff;}
+.form-control {border-radius: 1px;}
